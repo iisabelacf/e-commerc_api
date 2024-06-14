@@ -1,0 +1,1 @@
+O projeto desenvolvido durante o minicurso de Python oferecido pela Rockseat consiste em uma API de e-commerce, implementada utilizando Python e Flask. Além disso, foram aplicados conhecimentos de integração de banco de dados, roteamento e modelos, bem como autenticação de usuários e a construção e implementação da API.
